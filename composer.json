@@ -1,0 +1,11 @@
+{
+    "name": "artem/secur_dealers_ci.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Артем Морозов",
+            "email": "artem.morozov@icloud.com"
+        }
+    ],
+    "require": {}
+}
