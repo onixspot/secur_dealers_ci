@@ -1,5 +1,6 @@
 {
     "name": "artem/secur_dealers_ci.git",
+    "description": "Testing Github Actions",
     "license": "MIT",
     "authors": [
         {
