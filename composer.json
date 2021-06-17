@@ -8,5 +8,7 @@
             "email": "artem.morozov@icloud.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/console": "^5.3"
+    }
 }
